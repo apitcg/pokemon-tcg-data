@@ -1366,5 +1366,131 @@
       "small": "https://www.pokebeach.com/news/2025/07/74-Delibird.jpg",
       "large": "https://www.pokebeach.com/news/2025/07/74-Delibird.jpg"
     }
+  },
+  {
+    "id": "mega-evolution-152",
+    "number": "152",
+    "name": "Gumshoos",
+    "images": {
+      "small": "https://www.pokebeach.com/news/2025/07/75-Gumshoos.jpg",
+      "large": "https://www.pokebeach.com/news/2025/07/75-Gumshoos.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-153",
+    "number": "153",
+    "name": "Stufull",
+    "images": {
+      "small": "https://www.pokebeach.com/news/2025/07/75-Stufull.jpg",
+      "large": "https://www.pokebeach.com/news/2025/07/75-Stufull.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-154",
+    "number": "154",
+    "name": "Mega Venusaur ex",
+    "images": {
+      "small": "https://www.pokebeach.com/news/2025/07/76-Mega-Venusaur-ex.jpg",
+      "large": "https://www.pokebeach.com/news/2025/07/76-Mega-Venusaur-ex.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-155",
+    "number": "155",
+    "name": "Mega Camerupt ex",
+    "images": {
+      "small": "https://www.pokebeach.com/news/2025/07/77-Mega-Camerupt-ex.jpg",
+      "large": "https://www.pokebeach.com/news/2025/07/77-Mega-Camerupt-ex.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-156",
+    "number": "156",
+    "name": "Mega Abomasnow ex",
+    "images": {
+      "small": "https://www.pokebeach.com/news/2025/07/76-Mega-Abomasnow-ex.jpg",
+      "large": "https://www.pokebeach.com/news/2025/07/76-Mega-Abomasnow-ex.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-157",
+    "number": "157",
+    "name": "Mega Manectric ex",
+    "images": {
+      "small": "https://www.pokebeach.com/news/2025/07/77-Mega-Manectric-ex.jpg",
+      "large": "https://www.pokebeach.com/news/2025/07/77-Mega-Manectric-ex.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-158",
+    "number": "158",
+    "name": "Mega Gardevoir ex",
+    "images": {
+      "small": "https://www.pokebeach.com/news/2025/07/78-Mega-Gardevoir-ex.jpg",
+      "large": "https://www.pokebeach.com/news/2025/07/78-Mega-Gardevoir-ex.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-159",
+    "number": "159",
+    "name": "Mega Lucario ex",
+    "images": {
+      "small": "https://www.pokebeach.com/news/2025/07/78-Mega-Lucario-ex.jpg",
+      "large": "https://www.pokebeach.com/news/2025/07/78-Mega-Lucario-ex.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-160",
+    "number": "160",
+    "name": "Mega Absol ex",
+    "images": {
+      "small": "https://www.pokebeach.com/news/2025/07/79-Mega-Absol-ex.jpg",
+      "large": "https://www.pokebeach.com/news/2025/07/79-Mega-Absol-ex.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-161",
+    "number": "161",
+    "name": "Mega Mawile ex",
+    "images": {
+      "small": "https://www.pokebeach.com/news/2025/07/80-Mega-Mawile-ex.jpg",
+      "large": "https://www.pokebeach.com/news/2025/07/80-Mega-Mawile-ex.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-162",
+    "number": "162",
+    "name": "Mega Latias ex",
+    "images": {
+      "small": "https://www.pokebeach.com/news/2025/07/79-Mega-Latias-ex.jpg",
+      "large": "https://www.pokebeach.com/news/2025/07/79-Mega-Latias-ex.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-163",
+    "number": "163",
+    "name": "Mega Kangaskhan ex",
+    "images": {
+      "small": "https://www.pokebeach.com/news/2025/07/80-Mega-Kangaskhan-ex.jpg",
+      "large": "https://www.pokebeach.com/news/2025/07/80-Mega-Kangaskhan-ex.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-164",
+    "number": "164",
+    "name": "Acerola",
+    "images": {
+      "small": "https://www.pokebeach.com/news/2025/07/84-Acerola.jpg",
+      "large": "https://www.pokebeach.com/news/2025/07/84-Acerola.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-165",
+    "number": "165",
+    "name": "Air Balloon",
+    "images": {
+      "small": "https://www.pokebeach.com/news/2025/07/84-Air-Balloon.jpg",
+      "large": "https://www.pokebeach.com/news/2025/07/84-Air-Balloon.jpg"
+    }
   }
 ]
