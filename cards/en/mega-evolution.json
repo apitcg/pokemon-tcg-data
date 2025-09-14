@@ -7,5 +7,23 @@
       "small": "https://pokemonproxies.com/static/media/1l-001-Bulbasaur.77865fec91f5f78a1bce.png",
       "large": "https://pokemonproxies.com/static/media/1l-001-Bulbasaur.77865fec91f5f78a1bce.png"
     }
+  },
+  {
+    "id": "mega-evolution-2",
+    "number": "2",
+    "name": "Ivysaur",
+    "images": {
+      "small": "https://pokemonproxies.com/static/media/1l-002-Ivysaur.3dc7924a2381a0df42ec.png",
+      "large": "https://pokemonproxies.com/static/media/1l-002-Ivysaur.3dc7924a2381a0df42ec.png"
+    }
+  },
+  {
+    "id": "mega-evolution-3",
+    "number": "3",
+    "name": "Mega Venusaur ex",
+    "images": {
+      "small": "https://pokemonproxies.com/static/media/1l-003-Mega_Venusaur_ex.55248187965fcf5e445d.png",
+      "large": "https://pokemonproxies.com/static/media/1l-003-Mega_Venusaur_ex.55248187965fcf5e445d.png"
+    }
   }
 ]
