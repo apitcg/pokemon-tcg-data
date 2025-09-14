@@ -25,5 +25,41 @@
       "small": "https://pokemonproxies.com/static/media/1l-003-Mega_Venusaur_ex.55248187965fcf5e445d.png",
       "large": "https://pokemonproxies.com/static/media/1l-003-Mega_Venusaur_ex.55248187965fcf5e445d.png"
     }
+  },
+  {
+    "id": "mega-evolution-4",
+    "number": "4",
+    "name": "Exeggcute",
+    "images": {
+      "small": "https://pokemonproxies.com/static/media/1l-004-Exeggcute.7cd623310707cdcae908.png",
+      "large": "https://pokemonproxies.com/static/media/1l-004-Exeggcute.7cd623310707cdcae908.png"
+    }
+  },
+  {
+    "id": "mega-evolution-5",
+    "number": "5",
+    "name": "Exeggutor",
+    "images": {
+      "small": "https://pokemonproxies.com/static/media/1l-005-Exeggutor.cd0003f488769c37b1d2.png",
+      "large": "https://pokemonproxies.com/static/media/1l-005-Exeggutor.cd0003f488769c37b1d2.png"
+    }
+  },
+  {
+    "id": "mega-evolution-6",
+    "number": "6",
+    "name": "Tangela",
+    "images": {
+      "small": "https://pokemonproxies.com/static/media/1s-001-Tangela.b2d54fde60c708b2946a.png",
+      "large": "https://pokemonproxies.com/static/media/1s-001-Tangela.b2d54fde60c708b2946a.png"
+    }
+  },
+  {
+    "id": "mega-evolution-7",
+    "number": "7",
+    "name": "Tangrowth",
+    "images": {
+      "small": "https://pokemonproxies.com/static/media/1s-002-Tangrowth.1bbba9adf74133627e55.png",
+      "large": "https://pokemonproxies.com/static/media/1s-002-Tangrowth.1bbba9adf74133627e55.png"
+    }
   }
 ]
