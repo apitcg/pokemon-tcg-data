@@ -61,5 +61,32 @@
       "small": "https://pokemonproxies.com/static/media/1s-002-Tangrowth.1bbba9adf74133627e55.png",
       "large": "https://pokemonproxies.com/static/media/1s-002-Tangrowth.1bbba9adf74133627e55.png"
     }
+  },
+  {
+    "id": "mega-evolution-8",
+    "number": "8",
+    "name": "Chikorita",
+    "images": {
+      "small": "https://pokemonproxies.com/static/media/1s-003-Chikorita.6a23a2b57e84242fe33e.png",
+      "large": "https://pokemonproxies.com/static/media/1s-003-Chikorita.6a23a2b57e84242fe33e.png"
+    }
+  },
+  {
+    "id": "mega-evolution-9",
+    "number": "9",
+    "name": "Bayleef",
+    "images": {
+      "small": "https://pokemonproxies.com/static/media/1s-004-Bayleef.62c9eb11b4896860f9b5.png",
+      "large": "https://pokemonproxies.com/static/media/1s-004-Bayleef.62c9eb11b4896860f9b5.png"
+    }
+  },
+  {
+    "id": "mega-evolution-10",
+    "number": "10",
+    "name": "Meganium",
+    "images": {
+      "small": "https://pokemonproxies.com/static/media/1s-005-Meganium.0735ecbb019b722211ed.png",
+      "large": "https://pokemonproxies.com/static/media/1s-005-Meganium.0735ecbb019b722211ed.png"
+    }
   }
 ]
