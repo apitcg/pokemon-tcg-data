@@ -1,0 +1,668 @@
+[
+  {
+    "id": "mega-evolution-phantasmal-flames-1",
+    "number": "001",
+    "name": "Oddish",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_001_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_001_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-2",
+    "number": "002",
+    "name": "Gloom",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_002_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_002_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-5",
+    "number": "005",
+    "name": "Lotad",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_005_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_005_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-6",
+    "number": "006",
+    "name": "Lombre",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_006_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_006_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-7",
+    "number": "007",
+    "name": "Ludicolo",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_007_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_007_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-9",
+    "number": "009",
+    "name": "Nymble",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_009_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_009_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-10",
+    "number": "010",
+    "name": "Lokix",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_010_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_010_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-11",
+    "number": "011",
+    "name": "Charmander",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_011_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_011_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-12",
+    "number": "012",
+    "name": "Charmeleon",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_012_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_012_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-15",
+    "number": "015",
+    "name": "Darumaka",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_015_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_015_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-16",
+    "number": "016",
+    "name": "Darmanitan",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_016_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_016_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-19",
+    "number": "019",
+    "name": "Charcadet",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_019_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_019_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-20",
+    "number": "020",
+    "name": "Ceruledge",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_020_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_020_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-21",
+    "number": "021",
+    "name": "Seel",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_021_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_021_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-22",
+    "number": "022",
+    "name": "Dewgong",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_022_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_022_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-23",
+    "number": "023",
+    "name": "Swinub",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_023_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_023_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-24",
+    "number": "024",
+    "name": "Piloswine",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_024_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_024_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-25",
+    "number": "025",
+    "name": "Mamoswine",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_025_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_025_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-27",
+    "number": "027",
+    "name": "Piplup",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_027_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_027_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-28",
+    "number": "028",
+    "name": "Prinplup",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_028_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_028_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-30",
+    "number": "030",
+    "name": "Yamper",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_030_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_030_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-31",
+    "number": "031",
+    "name": "Boltund",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_031_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_031_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-32",
+    "number": "032",
+    "name": "Pawmi",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_032_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_032_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-33",
+    "number": "033",
+    "name": "Pawmo",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_033_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_033_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-35",
+    "number": "035",
+    "name": "Misdreavus",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_035_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_035_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-37",
+    "number": "037",
+    "name": "Snubbull",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_037_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_037_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-38",
+    "number": "038",
+    "name": "Granbull",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_038_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_038_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-39",
+    "number": "039",
+    "name": "Cresselia",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_039_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_039_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-40",
+    "number": "040",
+    "name": "Meloetta",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_040_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_040_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-42",
+    "number": "042",
+    "name": "Mimikyu",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_042_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_042_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-43",
+    "number": "043",
+    "name": "Milcery",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_043_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_043_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-44",
+    "number": "044",
+    "name": "Alcremie",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_044_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_044_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-46",
+    "number": "046",
+    "name": "Bramblin",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_046_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_046_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-47",
+    "number": "047",
+    "name": "Brambleghast",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_047_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_047_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-48",
+    "number": "048",
+    "name": "Paldean Tauros",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_048_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_048_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-49",
+    "number": "049",
+    "name": "Gligar",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_049_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_049_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-50",
+    "number": "050",
+    "name": "Gliscor",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_050_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_050_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-51",
+    "number": "051",
+    "name": "Trapinch",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_051_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_051_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-52",
+    "number": "052",
+    "name": "Vibrava",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_052_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_052_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-54",
+    "number": "054",
+    "name": "Gastly",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_054_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_054_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-55",
+    "number": "055",
+    "name": "Haunter",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_055_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_055_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-57",
+    "number": "057",
+    "name": "Murkrow",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_057_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_057_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-58",
+    "number": "058",
+    "name": "Honchkrow",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_058_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_058_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-59",
+    "number": "059",
+    "name": "Sableye",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_059_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_059_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-60",
+    "number": "060",
+    "name": "Carvanha",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_060_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_060_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-62",
+    "number": "062",
+    "name": "Seviper",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_062_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_062_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-63",
+    "number": "063",
+    "name": "Absol",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_063_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_063_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-64",
+    "number": "064",
+    "name": "Sandile",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_064_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_064_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-65",
+    "number": "065",
+    "name": "Krokorok",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_065_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_065_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-66",
+    "number": "066",
+    "name": "Krookodile",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_066_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_066_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-67",
+    "number": "067",
+    "name": "Toxel",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_067_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_067_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-69",
+    "number": "069",
+    "name": "Eternatus",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_069_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_069_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-71",
+    "number": "071",
+    "name": "Bronzor",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_071_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_071_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-72",
+    "number": "072",
+    "name": "Bronzong",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_072_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_072_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-73",
+    "number": "073",
+    "name": "Togedemaru",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_073_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_073_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-74",
+    "number": "074",
+    "name": "Duraludon",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_074_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_074_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-75",
+    "number": "075",
+    "name": "Archaludon",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_075_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_075_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-76",
+    "number": "076",
+    "name": "Jigglypuff",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_076_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_076_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-77",
+    "number": "077",
+    "name": "Wigglytuff",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_077_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_077_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-78",
+    "number": "078",
+    "name": "Aipom",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_078_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_078_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-80",
+    "number": "080",
+    "name": "Smeargle",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_080_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_080_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-81",
+    "number": "081",
+    "name": "Zigzagoon",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_081_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_081_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-82",
+    "number": "082",
+    "name": "Linoone",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_082_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_082_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-83",
+    "number": "083",
+    "name": "Buneary",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_083_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_083_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-85",
+    "number": "085",
+    "name": "Battle Cage",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_085_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_085_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-86",
+    "number": "086",
+    "name": "Blowtorch",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_086_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_086_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-87",
+    "number": "087",
+    "name": "Dawn",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_087_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_087_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-88",
+    "number": "088",
+    "name": "Dizzying Valley",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_088_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_088_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-89",
+    "number": "089",
+    "name": "Firebreather",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_089_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_089_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-90",
+    "number": "090",
+    "name": "Grimsley's Move",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_090_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_090_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-91",
+    "number": "091",
+    "name": "Jumbo Ice Cream",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_091_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_091_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-92",
+    "number": "092",
+    "name": "Punk Helmet",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_092_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_092_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-93",
+    "number": "093",
+    "name": "Sacred Charm",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_093_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_093_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-phantasmal-flames-94",
+    "number": "094",
+    "name": "Wondrous Patch",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_094_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2/me2_en_094_std.jpg"
+    }
+  }
+]
