@@ -2358,6 +2358,70 @@
     }
   },
   {
+    "id": "mega-evolution-ascended-heroes-265",
+    "number": "265",
+    "name": "Mega Froslass ex",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2-5/me2-5_en_265_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2-5/me2-5_en_265_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-ascended-heroes-266",
+    "number": "266",
+    "name": "Mega Eelektross ex",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2-5/me2-5_en_266_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2-5/me2-5_en_266_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-ascended-heroes-267",
+    "number": "267",
+    "name": "Mega Diancie ex",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2-5/me2-5_en_267_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2-5/me2-5_en_267_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-ascended-heroes-268",
+    "number": "268",
+    "name": "Mega Hawlucha ex",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2-5/me2-5_en_268_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2-5/me2-5_en_268_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-ascended-heroes-269",
+    "number": "269",
+    "name": "Mega Gengar ex",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2-5/me2-5_en_269_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2-5/me2-5_en_269_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-ascended-heroes-270",
+    "number": "270",
+    "name": "Mega Scrafty ex",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2-5/me2-5_en_270_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2-5/me2-5_en_270_std.jpg"
+    }
+  },
+
+  {
+    "id": "mega-evolution-ascended-heroes-271",
+    "number": "271",
+    "name": "Mega Dragonite ex",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2-5/me2-5_en_271_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2-5/me2-5_en_271_std.jpg"
+    }
+  },
+  {
     "id": "mega-evolution-ascended-heroes-272",
     "number": "272",
     "name": "Mega Meganium ex",
