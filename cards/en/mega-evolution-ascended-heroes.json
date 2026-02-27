@@ -1638,6 +1638,15 @@
     }
   },
   {
+    "id": "mega-evolution-ascended-heroes-183",
+    "number": "183",
+    "name": "Boss's Orders",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2-5/me2-5_en_183_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2-5/me2-5_en_183_std.jpg"
+    }
+  },
+  {
     "id": "mega-evolution-ascended-heroes-184",
     "number": "184",
     "name": "Buddy-Buddy Poffin",
@@ -2283,6 +2292,15 @@
     "images": {
       "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2-5/me2-5_en_255_std.jpg",
       "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2-5/me2-5_en_255_std.jpg"
+    }
+  },
+  {
+    "id": "mega-evolution-ascended-heroes-256",
+    "number": "256",
+    "name": "Boss's Orders",
+    "images": {
+      "small": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2-5/me2-5_en_256_std.jpg",
+      "large": "https://cdn.malie.io/file/malie-io/tcgl/cards/jpg/en/me2-5/me2-5_en_256_std.jpg"
     }
   },
   {
